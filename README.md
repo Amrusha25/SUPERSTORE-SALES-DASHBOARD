@@ -9,3 +9,7 @@
 - Identify top-performing products and sub-categories.
 - Analyze monthly sales trends.
 - Support business decision-making through data visualization.
+
+## Dataset used
+
+<a href="https://github.com/Amrusha25/SUPERSTORE-SALES-DASHBOARD/blob/main/SUPERSTORE%20SALES%20DASHBOARD.xls">Dataset</a>
