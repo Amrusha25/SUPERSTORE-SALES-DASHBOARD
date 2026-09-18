@@ -30,3 +30,13 @@
 
 - Create a chart to display contribution of sales by region.
 
+- # Project Insights
+
+- The dashboard analyzes sales, profit, orders, and product data using the Superstore dataset.
+- The West region has the highest sales contribution among the regions.
+- Technology is one of the highest-performing categories based on sales.
+- Standard Class has the highest number of orders among the shipment modes.
+- The dashboard helps identify top-performing sub-categories based on sales.
+- Monthly sales analysis helps understand sales trends and variations over time.
+- The dashboard provides an interactive and visual way to analyze overall sales performance.
+
