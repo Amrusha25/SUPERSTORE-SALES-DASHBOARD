@@ -13,3 +13,20 @@
 ## Dataset used
 
 <a href="https://github.com/Amrusha25/SUPERSTORE-SALES-DASHBOARD/blob/main/SUPERSTORE%20SALES%20DASHBOARD.xls">Dataset</a>
+
+## Questions :
+
+- Compare sales by region.
+
+- Compare sales across region and category.
+
+- Compare sales by category.
+
+- Compare orders by category and shipment mode.
+
+- Find top-performing products/sub-categories.
+
+- Create a chart to display sales over months.
+
+- Create a chart to display contribution of sales by region.
+
