@@ -12,7 +12,27 @@
 
 - ## Dataset Used
 
-<a href="
+<a href="https://github.com/Amrusha25/SUPERSTORE-SALES-DASHBOARD/blob/main/SUPERSTORE%20SALES%20PROJECT.xls">Dataset</a>
+
+## Questions (KPIs)
+
+- Compare sales by region.
+
+- Compare sales across region and category.
+
+- Compare sales by category.
+
+- Compare orders by category and shipment mode.
+
+- Find top-performing products/sub-categories.
+
+- Create a chart to display sales over months.
+
+- Create a chart to display contribution of sales by region.
+
+## Dashboard
+
+
 
 
 
